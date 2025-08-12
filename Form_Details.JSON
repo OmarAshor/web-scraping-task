@@ -1,0 +1,32 @@
+[
+  {
+    "field_name": "username",
+    "tag": "input",
+    "type": "text",
+    "default": "Enter your username"
+  },
+  {
+    "field_name": "password",
+    "tag": "input",
+    "type": "password",
+    "default": "Enter your password"
+  },
+  {
+    "field_name": "options",
+    "tag": "select",
+    "type": "select",
+    "default": ""
+  },
+  {
+    "field_name": "terms",
+    "tag": "input",
+    "type": "checkbox",
+    "default": ""
+  },
+  {
+    "field_name": "",
+    "tag": "input",
+    "type": "submit",
+    "default": "Submit"
+  }
+]
